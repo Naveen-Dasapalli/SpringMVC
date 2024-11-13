@@ -11,9 +11,11 @@
 </head>
 <body>
 	<h1>Home Page........!</h1>
+	
 	<!-- JSP Expression Language (EL) -->
 	<h2>${Message}</h2>
-	<h2>${DateTime }</h2>
+	<h2>${DateTime}</h2>
+	
 	<!-- scriptlet tag -->
 	<% 
 		String name = (String) request.getAttribute("Name"); 
@@ -38,10 +40,11 @@
 	
 	
 	<hr>
-	<!-- for loop using JSLT -->
+	
+	<!-- for loop, using JSLT -->
 	<h3> You have selected the following courses: </h3>
 	<ul>
-	<c:forEach var="course" items="${courses }">
+	<c:forEach var="course" items="${courses}">
 		<li>${course}</li>
 	</c:forEach>
 	</ul>

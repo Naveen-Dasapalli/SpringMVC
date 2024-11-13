@@ -13,7 +13,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="All Catalogs"/>
+		<item key="catalog" value="internal"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -25,10 +25,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.SpringMVC.ORM"/>
+			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="groupId">
+			<item value="com.SpringMVC.ORM"/>
+			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVC_ORM"/>
+			<item value="SpringMVCJavaBasedConfiguration"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
