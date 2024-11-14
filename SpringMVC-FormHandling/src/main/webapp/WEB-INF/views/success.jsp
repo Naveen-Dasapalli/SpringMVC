@@ -13,7 +13,7 @@
   </head>
   <body>
 		<h2>Submitted User Details</h2>
-	      <table>
+	      <table class="table-info">
 	         <tr>
 	            <td><strong>Username:</strong></td>
 	            <td>${user.name}</td>
