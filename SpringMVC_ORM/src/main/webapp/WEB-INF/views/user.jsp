@@ -15,8 +15,8 @@
   <div class="container mt-5">
   
     	<h1 class="text-center">Create user</h1>
-    	
     	<form action="processUserForm" method="post">
+		<!--  <form action="processAddUser" method="post"> -->
     		<div class="form-group">
 			    <label for="userName">Username</label>
 			    <input name="name" type="text" class="form-control" id="userName" placeholder="Enter username">
