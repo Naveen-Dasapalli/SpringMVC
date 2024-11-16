@@ -25,14 +25,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.SpringMVC.Search"/>
 			<item value="com.SpringMVC.ORM"/>
 			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="groupId">
+			<item value="com.SpringMVC.Search"/>
 			<item value="com.SpringMVC.ORM"/>
 			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="artifactId">
+			<item value="SearchMiniProject"/>
 			<item value="SpringMVC_ORM"/>
 			<item value="SpringMVCJavaBasedConfiguration"/>
 		</list>

@@ -1,12 +1,16 @@
 INDEX VERSION 1.134
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3872713849.index
 /SpringControllers/src/main/java
+/Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2945091076.index
+/SearchMiniProject/src/main/resources
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3565811040.index
 /SpringMVC-view/src/main/java
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3475034454.index
 /SpringMVC-FormHandling/src/main/java
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3569899255.index
 /SpringMVC_ORM/src/main/resources
+/Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2313919578.index
+/SpringMVC-Mini-Project-search/src/main/java
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3040492057.index
 /SpringMVC-FormHandling/src/main/resources
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3141070898.index
@@ -15,5 +19,9 @@ INDEX VERSION 1.134
 /SpringControllers/src/main/resources
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2796601035.index
 /SpringMVC_ORM/src/main/java
+/Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/881813822.index
+/SpringMVC-Mini-Project-search/src/main/java
+/Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/460728585.index
+/SearchMiniProject/src/main/java
 /Users/naveendasapalli/eclipse-workspace/Spring-MVC-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/864644005.index
 /SpringMVCJavaBasedConfiguration/src/main/resources

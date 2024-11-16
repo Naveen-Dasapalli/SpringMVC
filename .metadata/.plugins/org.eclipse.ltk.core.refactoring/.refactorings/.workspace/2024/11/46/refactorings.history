@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;SpringControllers&apos;" deleteContents="true" description="Delete resource &apos;SpringControllers&apos;" element1="/SpringControllers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731333272286"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpringControllers&apos;" deleteContents="true" description="Delete resource &apos;SpringControllers&apos;" element1="/SpringControllers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731333272286"/>&#x0A;<refactoring comment="Delete resource &apos;SpringMVC-Mini-Project-search&apos;" deleteContents="false" description="Delete resource &apos;SpringMVC-Mini-Project-search&apos;" element1="/SpringMVC-Mini-Project-search" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731684819780"/>
 </session>
