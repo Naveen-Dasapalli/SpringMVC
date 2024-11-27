@@ -25,16 +25,30 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.SpringMVC.Validation.SpringMVC_Validation"/>
+			<item value="com.SpringMVC.RequestBody"/>
+			<item value="com.SpringMVC.RestController"/>
+			<item value="com.SpringMVC.ResponseBody"/>
+			<item value="com.SpringMVC.responsebody"/>
 			<item value="com.SpringMVC.Search"/>
 			<item value="com.SpringMVC.ORM"/>
 			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="groupId">
+			<item value="com.SpringMVC.Validation"/>
+			<item value="com.SpringMVC.RequestBody"/>
+			<item value="com.SpringMVC.RestController"/>
+			<item value="com.SpringMVC.ResponseBody"/>
+			<item value="com.SpringMVC.responsebody"/>
 			<item value="com.SpringMVC.Search"/>
 			<item value="com.SpringMVC.ORM"/>
 			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVC_Validation"/>
+			<item value="SpringMVC_RequestBody"/>
+			<item value="SpringMVC_RestController"/>
+			<item value="SpringMVC_ResponseBody"/>
 			<item value="SearchMiniProject"/>
 			<item value="SpringMVC_ORM"/>
 			<item value="SpringMVCJavaBasedConfiguration"/>

@@ -19,7 +19,7 @@
 	<!-- scriptlet tag -->
 	<% 
 		String name = (String) request.getAttribute("Name"); 
-		Integer age = (Integer) request.getAttribute("age");
+		Integer age = (Integer) request.getAttribute("Age");
 		List<String> courses = (List<String>) request.getAttribute("courses");
 	%>
 	<h2> Hi, <%=name%> </h2>
