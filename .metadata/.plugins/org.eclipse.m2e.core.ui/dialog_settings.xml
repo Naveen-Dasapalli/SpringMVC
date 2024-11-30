@@ -25,6 +25,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.SpringMVC.RESTapi"/>
 			<item value="com.SpringMVC.Validation.SpringMVC_Validation"/>
 			<item value="com.SpringMVC.RequestBody"/>
 			<item value="com.SpringMVC.RestController"/>
@@ -35,6 +36,7 @@
 			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="groupId">
+			<item value="com.SpringMVC.RESTapi"/>
 			<item value="com.SpringMVC.Validation"/>
 			<item value="com.SpringMVC.RequestBody"/>
 			<item value="com.SpringMVC.RestController"/>
@@ -45,6 +47,7 @@
 			<item value="com.SpringMVC.JavaBased.Configuration"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringMVC_RESTapi"/>
 			<item value="SpringMVC_Validation"/>
 			<item value="SpringMVC_RequestBody"/>
 			<item value="SpringMVC_RestController"/>
